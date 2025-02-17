@@ -1,13 +1,13 @@
 # create distionaries 
 person = {
-    "name": "Aru",
+    "name": "Aiganym",
     "age": 17,
-    "city": "Almaty"
+    "city": "Taraz"
 }
-print(person)
+print(person)     
 
 # access to values
-print(person["name"])  # Аru
+print(person["name"])  # Aiganym
 
 # change the values
 person["age"] = 18

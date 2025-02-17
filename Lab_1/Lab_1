@@ -1,1 +1,6 @@
-print("Hello wolrd")
+print("Hello, Python!")
+
+
+a = 5
+b = 3
+print("Сумма:", a + b)

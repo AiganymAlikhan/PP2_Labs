@@ -1,6 +1,6 @@
 # Строковые операции
 text = "Hello, Python!"
-print(text.upper())   # Вверхний регистр
-print(text.lower())   # Нижний регистр
-print(text[0:5])      # Срез строки
-print(len(text))      # Длина строки
+print(text.upper())   # HELLO, PYTHON!
+print(text.lower())   # hello, python!
+print(text[0:5])      # Hello
+print(len(text))      # 13

@@ -6,11 +6,16 @@ print(fruits[0])  # apple
 
 # add and delete elements
 fruits.append("mango")
-print(fruits)
+print(fruits)     #apple, banana, cherry, mango
 
 fruits.remove("mango")
-print(fruits)
+print(fruits)    #apple, banana, cherry
 
 
 for fruit in fruits:
     print(fruit)
+    '''
+    apple
+    banana
+    cherry
+    '''
